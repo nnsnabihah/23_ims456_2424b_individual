@@ -1,0 +1,24 @@
+h1
+{
+    color:rgb(20, 20, 20);
+    font-size: 30pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a
+{
+ font-size: 15pt;
+ padding-right: 30;
+ text-decoration: none;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: rgb(3, 3, 3);
+ font-weight: 600
+
+}
+
+a:hover
+{
+    color:brown;
+    background-color: rgba(223, 136, 136, 0.322);
+
+}
